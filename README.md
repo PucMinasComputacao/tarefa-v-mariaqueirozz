@@ -9,18 +9,18 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Maria Luiza Queiroz
+- Matricula: 923494
+- Proposta de projeto escolhida: A proposta do projeto é apresentar um site sobre lugares e experiências em Roma, destacando pontos turísticos, cultura, gastronomia e dicas de viagem.
+- Breve descrição sobre seu projeto: o projetos foi desenvolvido utilizando HTML e CSS puro, focando na evolução da home-page da atividade anterior.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Versão Desktop](public/imagens/desktop.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Versão Mobile](public/imagens/mobile.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
